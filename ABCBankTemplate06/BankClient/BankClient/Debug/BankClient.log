@@ -1,0 +1,94 @@
+﻿  Date.cpp
+  Exception.cpp
+  Idea.cpp
+  JInStream.cpp
+  JOutStream.cpp
+  JThread.cpp
+  JUtil.cpp
+  Logging.cpp
+  LogStream.cpp
+  MD5.cpp
+  Socket.cpp
+  StringUtil.cpp
+  Systemconfig.cpp
+  Timestamp.cpp
+  BankSession.cpp
+  Client.cpp
+  BalanceInquiry.cpp
+  ChangePassword.cpp
+  CloseAccount.cpp
+  Deposit.cpp
+  正在生成代码...
+  正在编译...
+  OpenAccount.cpp
+  QueryAccountHistoryBill.cpp
+  QueryDayBill.cpp
+  QueryHistoryBill.cpp
+  Transfer.cpp
+  UserLogin.cpp
+  Withdrawal.cpp
+  JApplication.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JButton.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JEdit.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JLabel.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JLinkText.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JMessageBox.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jmessagebox.cpp(16): warning C4267: “+=”: 从“size_t”转换到“short”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jmessagebox.cpp(26): warning C4267: “初始化”: 从“size_t”转换到“short”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jmessagebox.cpp(63): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jmessagebox.cpp(64): warning C4267: “+=”: 从“size_t”转换到“short”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jmessagebox.cpp(87): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JWindow.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  JWindowBase.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.cpp(72): warning C4267: “初始化”: 从“size_t”转换到“SHORT”，可能丢失数据
+  main.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  TransactionManager.cpp
+  BalanceInquiryForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  ChangePasswordForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  CloseAccountForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  DepositForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  DetailStatementForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  FormManager.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  LoginForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  MainMenuForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  OpenAccountForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  QueryAccountHistoryBillForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  QueryDayBillForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  QueryHistoryBillForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  ReceiptForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  ReportForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\ui\reportform.cpp(48): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  TransferForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  Validator.cpp
+  WithdrawalForm.cpp
+e:\abcbank\abcbanktemplate06\bankclient\bankclient\jfc\jwindowbase.h(157): warning C4267: “参数”: 从“size_t”转换到“SHORT”，可能丢失数据
+  正在生成代码...
+  BankClient.vcxproj -> E:\ABCBank\ABCBankTemplate06\BankClient\Debug\BankClient.exe

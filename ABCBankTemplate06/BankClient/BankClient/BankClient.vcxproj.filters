@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JFC\JApplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JEdit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JLabel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JLinkText.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JMessageBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JWindow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JFC\JWindowBase.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\BalanceInquiryForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ChangePasswordForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\CloseAccountForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\DepositForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\DetailStatementForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\FormManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\LoginForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\MainMenuForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\OpenAccountForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\QueryAccountHistoryBillForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\QueryDayBillForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\QueryHistoryBillForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\TransferForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Validator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\WithdrawalForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Date.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Exception.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Idea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\JInStream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\JOutStream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\JThread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\JUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Logging.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\LogStream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\MD5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Socket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\StringUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Systemconfig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Public\Timestamp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BankSession.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TransactionManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\BalanceInquiry.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\ChangePassword.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\CloseAccount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\Deposit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\OpenAccount.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\QueryAccountHistoryBill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\QueryDayBill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\QueryHistoryBill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\Transfer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\UserLogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMD\Withdrawal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ReceiptForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\ReportForm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JFC\JApplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JEvent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JLabel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JLinkText.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JMessageBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JWindow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JFC\JWindowBase.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\BalanceInquiryForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ChangePasswordForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\CloseAccountForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\DepositForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\DetailStatementForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\FormManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\LoginForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\MainMenuForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\OpenAccountForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\QueryAccountHistoryBillForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\QueryDayBillForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\QueryHistoryBillForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\TransferForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Validator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\WithdrawalForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Date.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Exception.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Idea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\JInStream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\JOutStream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\JThread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\JUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Logging.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\LogStream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\MD5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Singleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Socket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\StringUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\SystemConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Public\Timestamp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BankSession.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TransactionManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\BalanceInquiry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\ChangePassword.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\CloseAccount.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\Deposit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\OpenAccount.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\QueryAccountHistoryBill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\QueryDayBill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\QueryHistoryBill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\Transaction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\Transfer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\UserLogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMD\Withdrawal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ReceiptForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\ReportForm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
